@@ -1,0 +1,12 @@
+/target/
+**/target/
+*.log
+*.class
+*.iml
+*.ipr
+*.iws
+.settings/
+.idea/
+.vscode/
+*.swp
+.DS_Store
